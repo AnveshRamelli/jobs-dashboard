@@ -2,6 +2,8 @@
 
 A dashboard to manage data processing jobs with CSV upload and a job table. Provides a clean UI, job creation modal, and CSV uploader with progress simulation.
 
+Check out the live version here: [View Live Dashboard](https://jobs-dashboard-beta.vercel.app/)
+
 ---
 
 ## **Tech Stack**
