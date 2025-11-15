@@ -1,5 +1,3 @@
-import React from "react";
-import { UploadCloud, RefreshCw, Plus } from "lucide-react";
 import Topbar from "./components/topbar";
 import Main from "./components/main-container";
 import Sidebar from "./components/sidebar";

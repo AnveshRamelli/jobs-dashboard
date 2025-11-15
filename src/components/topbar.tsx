@@ -1,5 +1,3 @@
-import React from "react";
-
 const Topbar = () => {
   return (
     <header className="w-full bg-white shadow-sm h-14 flex items-center px-4 justify-between">
